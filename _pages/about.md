@@ -27,7 +27,7 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 - *2024.07* &nbsp;🎉🎉 Completed approximately 20 miles in autonomous mode under rainy weather conditions during the first AVA project demo on a public road.
 
 # 📝 Publications 
-<!
+<!--
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -38,7 +38,7 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 
->
+-->
 
 
 
