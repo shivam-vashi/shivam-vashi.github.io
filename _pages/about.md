@@ -23,6 +23,7 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 
 
 # 🔥 News
+- *2024.12* &nbsp;🎉🎉 Demonstrated HD-Map-free lane-following for rural roads using real-time road boundary detection via <a href='https://ai.meta.com/sam2/'> Meta's SAM2 </a> algorithm.
 - *2024.10* &nbsp;🎉🎉 Successfully demonstrated our first remote perception capabilities for the <a href='https://mcity.umich.edu/'> Mcity</a> Demo Project <a href="https://www.linkedin.com/posts/um-mcity_mcity-av-challenge-demonstration-from-michigan-activity-7269768607008481281-qdfg?utm_source=share&utm_medium=member_desktop">[Link]</a>.
 - *2024.07* &nbsp;🎉🎉 Completed approximately 20 miles in autonomous mode under rainy weather conditions during the first AVA project demo on a public road.
 
