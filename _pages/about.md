@@ -48,7 +48,8 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 **AVA: Autonomous Vehicles for All**
 
 <a href='https://avadataportal.web.illinois.edu/index.html'> website</a> 
-- Lead of the Perception Team : Developed a perception system tailored for diverse route scenarios, including both urban and rural environments.
+- Motion Planning Team : Tested and developed advanced autonomous driving algorithms for rural unstructured and urban roads, designing robust motion planning pipelines, real-time lane-following via Meta SAM2, while enhancing sensor fusion and decision-making for safety-focused autonomous driving.
+- Hardware Integration and Testing : Conducted extensive testing of Autonomous Driving Algorithms in controlled environments and on public roads employing an integrated software stack of Perception, Motion Planning, & Control modules.
 
 </div>
 </div>
