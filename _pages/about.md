@@ -65,8 +65,7 @@ My current research is primarily centered on Motion Planning, Controls and Perce
         Your browser does not support the video tag.
       </video>
     </div>
-  </div>
-</div>
+
 
 **SKYFALL: A Drop-Resilient Mobile Robot Assembly**
  
