@@ -56,6 +56,24 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div>
+      <video width="100%" controls>
+        <source src="images/[].mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+**Local Obstacle Avoidance Trajectory Generation for a Self-Driving Car using Dijkstra Algorithm**
+ 
+- Developed an algorithm for generating jerk-minimizing local trajectories that avoid obstacles along a global trajectory.
+- Used Djikstra's Shortest Path Algorithm to obtain the optimal local trajectory and deployed the development on a Self-Driving SUV.
+  
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div>
       <video width="100%" controls>
