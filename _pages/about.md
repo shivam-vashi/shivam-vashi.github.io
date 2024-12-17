@@ -60,6 +60,7 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 <div class='paper-box-text' markdown="1">
   
 **Local Obstacle Avoidance Trajectory Generation for a Self-Driving Car using Dijkstra Algorithm**
+
  <a href='https://github.com/shivam-vashi/Local-Obstacle-Avoidance-Trajectory-Generation-using-Dijkstra-Algorithm'> code</a>
 - Developed an algorithm for generating jerk-minimizing local trajectories that avoid obstacles along a global trajectory.
 - Used Djikstra's Shortest Path Algorithm to obtain the optimal local trajectory and deployed the development on a Self-Driving SUV.
