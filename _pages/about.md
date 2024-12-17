@@ -57,16 +57,15 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
+<div class='paper-box'><div class='paper-box-image'><div>
       <video width="100%" controls>
         <source src="images/MEEN612_Project_Video.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
+</div>
 
-
+<div class='paper-box-text' markdown="1">
 **SKYFALL: A Drop-Resilient Mobile Robot Assembly**
  
 DESCRIPTION
