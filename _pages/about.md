@@ -105,12 +105,15 @@ Designed a Redis-based communication pipeline for real-time depth perception and
 - *2023.01* Received a scholarship award of INR 5000 for securing 1st Rank in a class of 88 students.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023 - Present*, 4.0/4.0, Master of Science (MS) in Mechanical Engineering, Texas A&M University
+- *2019 - 2023*, 9.55/10, Bachelor of Technology (B.Tech) in Mechanical Engineering, Veermata Jijabai Technological Institute (VJTI)
+
+<!--
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+-->
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
