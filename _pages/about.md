@@ -58,7 +58,7 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 
 <div class='paper-box'><div class='paper-box-image'><div>
       <video width="100%" controls>
-        <source src="images/[].mp4" type="video/mp4">
+        <source src="images/Deployment_on_a_Self_Driving_SUV.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
