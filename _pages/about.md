@@ -55,6 +55,18 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mcity.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MCITY 2.0 USE CASE AV PERCEPTION**
+
+<a href="https://www.linkedin.com/posts/um-mcity_mcity-av-challenge-demonstration-from-michigan-activity-7269768607008481281-qdfg?utm_source=share&utm_medium=member_desktop">Link</a>
+
+Designed a Redis-based communication pipeline for real-time depth perception and simultaneous segmentation using camera feed from an autonomous vehicle at MCity 2.0 and sending output (depth map, segmentation map & background vehicle positions) from Texas A&M. This succesfully demonstrated Remote Perception Capabilities for Autonomous Vehicles.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
