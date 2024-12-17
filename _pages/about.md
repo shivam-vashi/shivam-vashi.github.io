@@ -68,7 +68,8 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 <div class='paper-box-text' markdown="1">
 **SKYFALL: A Drop-Resilient Mobile Robot Assembly**
  
-DESCRIPTION
+- Designed and assembled a 3D-printed, two-wheel differential-drive mobile robot powered by Arduino.
+- Engineered an impact mitigation system incorporating a parachute and foam padding on 3D-printed base for survival of 2-meter free falls.
 
 </div>
 </div>
