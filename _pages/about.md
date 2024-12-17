@@ -56,14 +56,7 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
-      <video width="100%" controls>
-        <source src="images/Deployment_on_a_Self_Driving_SUV.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-</div>
-
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Deployment_on_a_Self_Driving_SUV.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Local Obstacle Avoidance Trajectory Generation for a Self-Driving Car using Dijkstra Algorithm**
