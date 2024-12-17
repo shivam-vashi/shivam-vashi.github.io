@@ -58,7 +58,7 @@ My current research is primarily centered on Motion Planning, Controls and Perce
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/mcity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**MCITY 2.0 USE CASE AV PERCEPTION**
+**MCITY 2.0 USE CASE- AV Remote Perception**
 
 <a href="https://www.linkedin.com/posts/um-mcity_mcity-av-challenge-demonstration-from-michigan-activity-7269768607008481281-qdfg?utm_source=share&utm_medium=member_desktop">Link</a>
 
