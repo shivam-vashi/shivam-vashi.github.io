@@ -102,7 +102,7 @@ Designed a Redis-based communication pipeline for real-time depth perception and
 </div>
 
 # 🎖 Honors and Awards
-- *2023.01* Received a scholarship award of INR 5000 for securing 1st Rank in a class of 88 students.
+- *2023.01* Received a scholarship award of INR 5000 for securing 1st Rank in a class of 88 students (VJTI)
 
 # 📖 Educations
 - *2023 - Present*, 4.0/4.0, Master of Science (MS) in Mechanical Engineering, Texas A&M University
